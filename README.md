@@ -91,8 +91,8 @@ Dưới đây là mô tả chi tiết về các tính năng chính của ứng d
 <a name="built-with"></a>
 ### Frameworks và thư viện
 <div align="center">
-  <img src="/Images/Csharp.png" height="100"/> 
-  <img src="/Images/NET-Framework.png" height="100"/> 
+  <img src="/Images/CsWhiteBG.png" height="100"/> 
+  <img src="/Images/Net.png" height="100"/> 
   <img src="/Images/Winforms.png" height="100"/> 
   <img src="/Images/SQLserver.jpg" height="100"/></div>
 <p align="center"><i>Những công nghệ sử dụng</i></p>
